@@ -1,0 +1,6 @@
+use_frameworks!
+target 'LJHStruct_Tests' do
+  pod 'LJHStruct', :path => '../'
+  
+  
+end
